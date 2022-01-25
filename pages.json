@@ -39,7 +39,13 @@
       "van-overlay": "/wxcomponents/vant/overlay/index",
       "van-skeleton": "/wxcomponents/vant/skeleton/index",
       "van-collapse": "/wxcomponents/vant/collapse/index",
-      "van-collapse-item": "/wxcomponents/vant/collapse-item/index"
+      "van-collapse-item": "/wxcomponents/vant/collapse-item/index",
+      "van-tag": "/wxcomponents/vant/tag/index",
+      "van-nav-bar": "/wxcomponents/vant/nav-bar/index",
+      "van-slider": "/wxcomponents/vant/slider/index",
+      "van-dropdown-menu": "/wxcomponents/vant/dropdown-menu/index",
+      "van-dropdown-item": "/wxcomponents/vant/dropdown-item/index",
+      "van-empty": "/wxcomponents/vant/empty/index"
     }
   }
 }

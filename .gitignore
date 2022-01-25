@@ -1,0 +1,42 @@
+# ------------------------------------uniapp------------------------------------
+node_modules/
+.project
+unpackage/
+.DS_Store
+.hbuilderx
+
+# ------------------------------------springboot------------------------------------
+BACKEND/HELP.md
+BACKEND/target/
+BACKEND/!.mvn/wrapper/maven-wrapper.jar
+BACKEND/!**/src/main/**/target/
+BACKEND/!**/src/test/**/target/
+
+### STS ###
+BACKEND/.apt_generated
+BACKEND/.classpath
+BACKEND/.factorypath
+BACKEND/.project
+BACKEND/.settings
+BACKEND/.springBeans
+BACKEND/.sts4-cache
+
+### IntelliJ IDEA ###
+BACKEND/.idea
+BACKEND/*.iws
+BACKEND/*.iml
+BACKEND/*.ipr
+
+### NetBeans ###
+BACKEND/nbproject/private/
+BACKEND/nbbuild/
+BACKEND/dist/
+BACKEND/nbdist/
+BACKEND/.nb-gradle/
+BACKEND/build/
+BACKEND/!**/src/main/**/build/
+BACKEND/!**/src/test/**/build/
+
+### VS Code ###
+BACKEND/.vscode/
+
