@@ -17,4 +17,7 @@ export default {
 @import '@/wxcomponents/vant/common/index.wxss';
 @import '@/wxcomponents/colorui/main.css';
 @import '@/wxcomponents/colorui/icon.css';
+uni-page-body,html,body{  
+	height: 100%;  
+}  
 </style>
